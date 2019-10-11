@@ -1,6 +1,6 @@
 # Progetto Reti Logiche
 
-Progetto del corso di Reti Logiche del Prof. William Fornaciari, effettuato durante l'anno accademico 2018/2019
+Progetto del corso di Reti Logiche del Prof. William Fornaciari, effettuato durante l'anno accademico 2018/2019 al Politecnico di Milano
 
 ## Descrizione generale
 Sia dato uno spazio bidimensionale definito in termini di dimensione orizzontale e verticale,
